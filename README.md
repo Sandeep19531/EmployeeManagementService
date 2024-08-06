@@ -13,6 +13,7 @@ Java Spring Security
 JWT  
 Java Hibernate/ JPA  
 Outh Authentication  
+Maven  
   
 **Database**  
 Mysql Developer
